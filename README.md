@@ -9,6 +9,9 @@ The project contains clone of website Google . This is a fully responsive clone 
 
 
 # Technologies Used
+<img align="left" alt="React Js" width="26px" src="./google-image/readmeAssets/css-3.png" /> `CSS`
+
+
 <img align="left" alt="React Js" width="26px" src="./google-image/readmeAssets/logo512.png" /> `REACT`
 
 
