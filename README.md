@@ -30,3 +30,32 @@ The project contains clone of website Google . This is a fully responsive clone 
  ## Desktop Version
  ![](google-image/Screenshots/1.png)
  ![](google-image/Screenshots/2.png)
+ # Links
+ ## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/avinashchandra043/google-clone.git
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+
+
+Start the server
+
+```bash
+  npm run start
+```
+ # Contact
+ [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-chandra-12540020b/)`https://www.linkedin.com/in/avinash-chandra-12540020b/`
+ 
+ 
+<img align="left" alt="gmail" width="26px" src="./google-clone/readmeAssets/gmail.webp" /> `avinashchandrabarik01@gmail.com`
