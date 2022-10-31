@@ -31,23 +31,20 @@ The project contains clone of website Google . This is a fully responsive clone 
  ![](google-image/Screenshots/1.png)
  ![](google-image/Screenshots/2.png)
  # Links
+ The deployed site might not have all features working due to developer plan of Api which only allows free services in the localhost and not on the deployed version.
  ## Run Locally
 
 Clone the project
 
-```bash
-  git clone https://github.com/avinashchandra043/google-clone.git
-```
+create a react app
+
+delete your src file and add this src file there
+
+open the react app with vs code
 
 Go to the project directory
 
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-
+Install dependencies react router, redux and material ui library
 
 Start the server
 
