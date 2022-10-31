@@ -58,4 +58,4 @@ Start the server
  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-chandra-12540020b/)`https://www.linkedin.com/in/avinash-chandra-12540020b/`
  
  
-<img align="left" alt="gmail" width="26px" src="./google-clone/readmeAssets/gmail.webp" /> `avinashchandrabarik01@gmail.com`
+<img align="left" alt="gmail" width="26px" src="./google-image/readmeAssets/gmail.webp" /> `avinashchandrabarik01@gmail.com`
