@@ -3,6 +3,7 @@
 ![HTML & CSS](https://img.shields.io/badge/React%20Router-v6.4-green)
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-blue)
 ![HTML & CSS](https://img.shields.io/badge/Redux-Redux%20Toolkit-purple)
+![HTML & CSS](https://img.shields.io/badge/MuI-npm-orange)
 
 The project contains clone of website Google . This is a fully responsive clone of Google home page and search page build purely with React Js, Redux, React Router, Material UI Icons. Utilised the efficient power of React Js to build this fully responsive clone. Learnt to use React Js, Redux, React Router v6 to build production ready UI's in minimum time possible.
 
@@ -15,6 +16,9 @@ The project contains clone of website Google . This is a fully responsive clone 
 
 
 <img align="left" alt="REDUX" width="26px" src="./google-image/readmeAssets/Redux.png" /> `REDUX`
+
+
+<img align="left" alt="REDUX" width="26px" src="./google-image/readmeAssets/material_ui.png" /> `Material UI`
 # Features
  - Build over React Js, React Router, Redux
  - Clean and Beautiful UI Design
